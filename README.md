@@ -20,3 +20,19 @@ Nome dos testes FILE_test.go
 ```bash
 go test
 ```
+
+## Http server
+https://golang.org/pkg/net/http/
+
+```console
+import (
+    "fmt"
+    "net/http"
+)
+```
+
+### running
+```bash
+go run server.go
+```
+>> http://localhost:8080/hello
