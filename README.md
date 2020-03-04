@@ -1,12 +1,12 @@
-# Golang 
+# Hello Golang 
 
-### Executável BIN
+### BIN
 
 ```bash
 go install
 ``` 
 
-### Pacote PKG
+### PKG
 
 ```bash
 go build path/to/file.go
@@ -14,7 +14,7 @@ go install
 ```
 
 ## Testes
-Nome dos testes FILE_test.go
+FILE_test.go
 
 ### Running
 ```bash
